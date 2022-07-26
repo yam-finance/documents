@@ -6,7 +6,6 @@ The Gov-Ops Council has 3 main roles within the DAO:
 
 1. To facilitate and guide the high level operation of YAM, to help vet and fund Silos, Grants, and other projects. In this role it is not a gatekeeper. It makes recommendations and interpretations of the rules as ratified by the governance process. One could think of it like YAM’s version of a standards compliance body, which does not make standards, but reviews whether they are met and may also interpret and clarify them.
 2. The second role is to create and execute on-chain transactions from approved governance proposals. This is a functional and oversight role. Common, simple transactions and actions that the DAO performs on a regular basis are included in this role, as well as reviewing and calling other contracts that may be created by project silos. A preliminary list of pre-approved proposal actions are:
-
     - paying out approved grants.
     - replenishing multi-signature wallets when approved by governance.
     - depositing and removing treasury assets from Yearn Vaults.
@@ -17,13 +16,13 @@ The Gov-Ops Council has 3 main roles within the DAO:
     All other proposal actions are subject to a case by case review and should be expected to be out of scope of the Gov-Ops council. As new code is written for specific use cases, the above list may expand.
 
 3. Maintenance of existing YAM infrastructure and systems including, but not limited to:
-    - The YAM website and on-chain voting Dapp.
-    - The YAM snapshot page.
-    - The YAM Discourse server.
-    - The YAM Discord server
-    - The YAM Telegram channel.
-    - YAM documentation repositories.
-    - the YAM github organization, repos, and other infrastructure used to facilitate working with those repos (Netlify, etc).
+    - Yam Website DApp.
+    - Snapshot page.
+    - Discourse server.
+    - Discord server.
+    - Telegram channel.
+    - Documentation repositories.
+    - Github organization, repos, and other infrastructure used to facilitate working with those repos (Netlify, etc).
     - Moderation of all of the above.
 
 ## Goals
